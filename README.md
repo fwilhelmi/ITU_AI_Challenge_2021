@@ -29,9 +29,9 @@ To meet the overarching goal of this project, a dataset was generated with the [
 ### Repository description
 This repository contains the main resources of problem statement [*PS-004: Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario*](https://www.upf.edu/web/wnrg/2021-edition) of the [ITU AI for 5G Challenge (2021)](https://challenge.aiforgood.itu.int/).
 
-## Organization
+#### Repository organization
 
-## How-to guide
+#### How-to guide
 
 1. Download the dataset from [Zenodo](https://zenodo.org/record/5656866#.YfelZPXML0p).
 2. Pre-process the dataset (see, for instance, the files in [Code>TensorFlow Federated](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/Matlab%20-%20Plot%20results)).
