@@ -33,12 +33,12 @@ This repository contains the main resources of problem statement [*PS-004: Feder
 #### Repository organization
 
 The repository is structured as follows:
-1. [Code](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code)
-  a. [Matlab - Plot results](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/Matlab%20-%20Plot%20results): folder with the matlab scripts used to process and plot the results of the ITU Challenge 2021
-  b. [TensorFlow Federated](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/TensorFlow%20Federated): folder with the python scripts used to pre-process the dataset and baseline methods (centralized and federated)
-3. [Resources](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources)
-  a. [Figures](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Figures): set of figures obtained from executing the files in "Matlab - Plot results"
-  b. [Presentations: material used in presentations in the context of this problem statement](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Presentations)
+* [Code](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code)
+  * [Matlab - Plot results](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/Matlab%20-%20Plot%20results): folder with the matlab scripts used to process and plot the results of the ITU Challenge 2021
+  * [TensorFlow Federated](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/TensorFlow%20Federated): folder with the python scripts used to pre-process the dataset and baseline methods (centralized and federated)
+* [Resources](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources)
+  * [Figures](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Figures): set of figures obtained from executing the files in "Matlab - Plot results"
+  * [Presentations: material used in presentations in the context of this problem statement](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Presentations)
 
 #### How-to guide
 
