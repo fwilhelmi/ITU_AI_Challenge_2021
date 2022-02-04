@@ -24,12 +24,21 @@ As wireless standards evolve, more complex functionalities are introduced to add
 
 To meet the overarching goal of this project, a dataset was generated with the [Komondor simulator](https://github.com/wn-upf/Komondor/), which was provided to train FL models with (preferably) TensorFlow.
 
-[Video](https://aiforgood.itu.int/event/unleashing-the-potential-of-machine-learning-to-address-spatial-reuse-in-future-ieee-802-11-wlans-an-introduction-to-two-problem-statements-for-the-itu-ai-challenge/) Presentation of the IEEE 802.11ax SR topic and introduction to the problem statement.
+[[Video]](https://aiforgood.itu.int/event/unleashing-the-potential-of-machine-learning-to-address-spatial-reuse-in-future-ieee-802-11-wlans-an-introduction-to-two-problem-statements-for-the-itu-ai-challenge/) Presentation of the IEEE 802.11ax SR topic and introduction to the problem statement.
 
 ### Repository description
+
 This repository contains the main resources of problem statement [*PS-004: Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario*](https://www.upf.edu/web/wnrg/2021-edition) of the [ITU AI for 5G Challenge (2021)](https://challenge.aiforgood.itu.int/).
 
 #### Repository organization
+
+The repository is structured as follows:
+1. [Code](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code)
+  a. [Matlab - Plot results](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/Matlab%20-%20Plot%20results): folder with the matlab scripts used to process and plot the results of the ITU Challenge 2021
+  b. [TensorFlow Federated](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Code/TensorFlow%20Federated): folder with the python scripts used to pre-process the dataset and baseline methods (centralized and federated)
+3. [Resources](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources)
+  a. [Figures](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Figures): set of figures obtained from executing the files in "Matlab - Plot results"
+  b. [Presentations: material used in presentations in the context of this problem statement](https://github.com/fwilhelmi/ITU_AI_Challenge_2021/tree/main/Resources/Presentations)
 
 #### How-to guide
 
@@ -40,6 +49,7 @@ This repository contains the main resources of problem statement [*PS-004: Feder
 
 ### Acknowledgements
 
+The authors would like to thank enormously everyone that made possible the ITU AI for 5G Challenge, with special mention to Vishnu Ram OV, Reinhard Scholl, and Thomas Basikolo. Likewise, we would like to thank the valuable feedback provided by Dr. Andrea Bonfante.
 
 ### Contribute
 
