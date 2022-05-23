@@ -2,7 +2,7 @@ close all
 clear all
 clc
 
-team_names = {'Predictions', 'FederationS', 'FedIPC', 'WirelessAI'};
+team_names = {'baseline', 'predictions', 'FederationS_final', 'FedIPC', 'WirelessAI'};
 
 load('array_ap_stas.mat')
 

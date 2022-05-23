@@ -1,0 +1,8 @@
+node_code;node_type;wlan_code;x(m);y(m);z(m);central_freq(GHz);channel_bonding_model;primary_channel;min_channel_allowed;max_channel_allowed;tpc_default(dBm);cca_default(dBm);traffic_model;traffic_load[pkt/s];packet_length;num_packets_aggregated;capture_effect_model;capture_effect_thr;constant_per;pifs_activated;cw_adaptation;cont_wind;cont_wind_stage;bss_color;spatial_reuse_group;non_srg_obss_pd;srg_obss_pd
+AP_A;0;A;44.8311;33.6233;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;1;1;-73;-82
+STA_A1;1;A;51.2903;33.6836;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;1;1;-73;-82
+STA_A2;1;A;47.438;33.3915;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;1;1;-73;-82
+AP_B;0;B;51.5361;38.6521;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;2;2;-82;-82
+STA_B1;1;B;49.5532;33.3964;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;2;2;-82;-82
+STA_B2;1;B;50.3844;47.5927;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;2;2;-82;-82
+STA_B3;1;B;59.8093;39.1773;0;5.0;4;0;0;0;20;-82;99;10000.0;12000;64;0;10;0.0;0;0;16;5;2;2;-82;-82

@@ -43,6 +43,7 @@ train_data_set = pd.read_csv("../simulator_output/processed_outputs/processed_ou
 context_ids = set(train_data_set['context'])
 train_datasets = make_federated_data(train_data_set, context_ids)
 sample_data_set = train_datasets[0]
+print(sample_data_set)
 
 
 # Define the ML model
